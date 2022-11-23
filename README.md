@@ -1,4 +1,2 @@
-# Toolise
-Multi Tool/Crypter\Décrypter
-#Install
+# Install
 pip install pystyle
